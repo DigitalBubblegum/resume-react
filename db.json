@@ -1,0 +1,65 @@
+{
+    "personalInfo": {
+        "name": "Lorem Ipsum",
+        "email": "LoremIpsum.com"
+    },
+    "education":{
+        "college": "Dolor Set Amet",
+        "yog": "2022"
+    },
+    "skills":["Lorem","ipsum","dolor","sit","amet","consectetur","adipiscing","elit","Morbi","malesuada","tincidunt","erat","vitae","laoreet","Nunc","sollicitudin","libero","sollicitudin","dapibus"],
+    "workx":[
+        {
+            "companyName":"Dolor",
+            "location":"DLR",
+            "designation":"Set Amet",
+            "my_join":"Jan 0001",
+            "my_leave":"Jan 2023",
+            "wyd":["","","",""]
+        },
+        {
+            "companyName":"Set",
+            "location":"DLR",
+            "designation":"Set Amet",
+            "my_join":"Jan 0001",
+            "my_leave":"Jan 2023",
+            "wyd":["","","",""]
+        },
+        {
+            "companyName":"Amet",
+            "location":"DLR",
+            "designation":"Set Amet",
+            "my_join":"Jan 0001",
+            "my_leave":"Jan 2023",
+            "wyd":["","","",""]
+        }
+    ],
+    "projects":[
+        {
+            "name":"Lorem Ipsum",
+            "repoUrl":"ipsum.com",
+            "desc":"Morbi malesuada tincidunt erat vitae laoreet. Nunc sollicitudin libero sollicitudin dapibus dictum. Sed euismod faucibus enim sit amet sagittis."
+        },
+        {
+            "name":"Lorem Ipsum",
+            "repoUrl":"ipsum.com",
+            "desc":"Morbi malesuada tincidunt erat vitae laoreet. Nunc sollicitudin libero sollicitudin dapibus dictum. Sed euismod faucibus enim sit amet sagittis."
+        },
+        {
+            "name":"Lorem Ipsum",
+            "repoUrl":"ipsum.com",
+            "desc":"Morbi malesuada tincidunt erat vitae laoreet. Nunc sollicitudin libero sollicitudin dapibus dictum. Sed euismod faucibus enim sit amet sagittis."
+        }
+    ],
+    "certifications":[
+        {
+            "name":"Lorem Ipsum",
+            "link":"ipsum.com"
+        },
+        {
+            "name":"Lorem Ipsum",
+            "link":"ipsum.com"
+        }
+    ],
+    "ongoingLearning":["Lorem","Ipsum"]
+}
